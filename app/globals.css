@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-shadow-white {
+    text-shadow: rgba(255, 255, 255, 0.20) 1px 0 40px;
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(to bottom, #fa1c74, #1e8bfc);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-image: linear-gradient(to bottom, #8d0038, #003874);
+}
+
+::selection {
+    background-color: white;
+    color: black;
+}
