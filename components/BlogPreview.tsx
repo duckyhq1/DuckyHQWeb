@@ -8,7 +8,7 @@ const BlogPreview = (props: BlogMetadata) => {
                 <div style={{backgroundImage: `url(${props.image})`}} className="bg-cover aspect-video">
                     <p className="text-white/30 text-[25px] p-[25px]">{props.type}</p>
                 </div>
-                <p className="text-[35px] w-full pt-[45px]">{props.title}</p>
+                <p className="text-[35px] w-full pt-[45px] max-[580px]:text-[28px]">{props.title}</p>
             </div>
         </Link>
     )
