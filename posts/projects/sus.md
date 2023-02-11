@@ -1,11 +1,11 @@
 ---
 title: "Alive SMP Season 2"
-subtitle: "What's gonna happen? Find out on this post."
 date: "2023-01-05"
-image: "https://cdn.discordapp.com/attachments/1031325068489412638/1060742585536221266/2022-12-31_19.31.03.png"
+image: "https://cdn.discordapp.com/attachments/1049056638339924028/1049056638868402276/3d.png"
+featured: "true"
 ---
 
-![Header Image](https://cdn.discordapp.com/attachments/1031325068489412638/1060742585536221266/2022-12-31_19.31.03.png)
+![Header Image](https://cdn.discordapp.com/attachments/1049056638339924028/1049056638868402276/3d.png)
 
 # Alive SMP Season 2
 ## Whats Happening?
